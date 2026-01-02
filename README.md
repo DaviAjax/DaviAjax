@@ -1,15 +1,18 @@
 # 👋 Hi there
 
-Eu sou o Davi Luiz, um desenvolvedor front-end com gosto pela programação e um entusiasta pelas tecnologias do front-end. Com estudo e dedicação ao mundo da programação, conquistei uma compreensão de JavaScript, HTML e CSS, transformando códigos em experiências visuais.<br>
-Sou freelancer e trabalho atualmente por conta pegando alguns projetos e aperfeiçoando meus conhecimentos no front-end.
+<div style="display:flex; justify-content: center; align-items: center;">
+    <div style="display: flex; border-radius: 0.375rem; background: #032E2C; margin-top: 1rem; padding: 1rem 1rem 0 1rem; border: 1px solid #01FBA1;">
+      <p>
+      Sou Davi Luiz, desenvolvedor de software formado em Ciência da Computação e um estudioso entusiasmado pela tecnologia. Com mais de 2 anos de experiência na área, trabalhando em projetos pessoais e como freelancer.
+      </p>
+    </div>
+</div>
+
 
 <div>
 <img align="right" height="400rem" src="https://github.com/Davi-log/Davi-log/assets/127554027/5d3dd51b-b386-450a-86c5-b28ad880d9fc">
 
 </div>
-
-
-
 
 <div style="display: flex; aling-itens: center;">
 
@@ -17,9 +20,7 @@ Sou freelancer e trabalho atualmente por conta pegando alguns projetos e aperfei
 
 </div>
 <div style="display: flex; aling-itens: center;">
-Minha trajetória como desenvolvedor Front-end e freelancer tem sido marcada por projetos desafiadores e impactantes, como as landing pages para Equilab Análises e DSM Brasil. Nesses projetos, apliquei conhecimentos em HTML5, CSS3, JavaScript e ferramentas de UI/UX Design, como Figma, para criar experiências intuitivas e funcionais.<br><br>
-Além das competências técnicas, minha experiência inclui liderança de equipe, comunicação eficaz e estratégias de marketing, desenvolvidas durante minha atuação na Samsung. Valorizo a inovação e o aprendizado contínuo, o que me motiva a buscar sempre as melhores soluções e acompanhar tendências do setor.<br><br>
-Atualmente, estou ampliando minhas habilidades em frameworks como Vue.js e React.js, com foco em me tornar uma referência na área de desenvolvimento e design centrado no usuário.<br><br>
+Apaixonado por transformar ideias em experiências de usuário interativas e intuitivas, me especializei no desenvolvimento web front-end, combinando ferramentas de criação de software com as melhores práticas de design. Dediquei-me a aperfeiçoar meus conhecimentos e habilidades em tecnologias front-end e UI/UX design para criar interfaces visuais que encantam e são intuitivas.<br><br>
 </div>
 
 # Hard Skills
